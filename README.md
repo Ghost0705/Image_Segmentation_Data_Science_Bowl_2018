@@ -40,7 +40,8 @@ After the deployment, the model accuracy able to achieve 96% and val_accuracy of
 
 ### How to run the pythons file:
 1. Download the dataset
-2. Run the image_segmentation.py 
+2. Change the filepath using your own path of the file
+3. Run the image_segmentation.py 
 
 Enjoy!
 
